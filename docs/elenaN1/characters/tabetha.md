@@ -8,6 +8,16 @@ Tabetha ist Elena eng verbunden. In ihrer gemeinsamen Vergangenheit gibt es eine
 
 Elena wirft sich bei einem Verkehrsunfall für Tabetha vor ein Auto. Elena fällt dadurch ins Koma; Tabetha bleibt zurück und trägt eine schwere, subjektiv empfundene Schuld. Dass Elena später in einem anderen Körper erwacht, ist Teil des übergeordneten Plots und nicht automatisch Tabethas Wissen.
 
+## Nähe, Liebe und Loyalität zu Elena
+
+Die beiden Mädchen verbindet eine außergewöhnlich enge Beziehung, die über ihre gemeinsame Kindheit hinausreichen und sich zu einer aufrichtigen Liebesbeziehung entwickeln kann. Der genaue zeitliche Verlauf und die Form dieser Entwicklung bleiben offen. Ihre Nähe ist nicht bloß ein erzählerischer Zweck, sondern ein wesentlicher Teil ihrer Figuren.
+
+Eine mögliche spätere Szene verdeutlicht Tabethas Haltung: Elenas Mutter stellt die Frage, ob Elena in ihrem kybernetischen Körper überhaupt noch ein organisches Gehirn besitzt. Tabetha verteidigt Elena entschieden gegen die implizite Infragestellung ihrer Identität und Menschlichkeit. Elena selbst ist diese biologische Unterscheidung weitgehend gleichgültig: Ihr Verhalten, ihre Erinnerungen und ihr Bewusstsein sind für sie ausschlaggebend. Tabethas Reaktion entspringt der Liebe und Loyalität, nicht zwingend einem Schutzbedürfnis Elenas.
+
+### Ursprung der Namenskombination
+
+Eine persönliche Inspirationsquelle ist Tanya Chalkins Schwarzweißfotografie *Kiss*: Die beiden abgebildeten Models heißen Elena und Tabetha. Die Fotografie steht als visuelles und emotionales Leitmotiv für Zärtlichkeit und Nähe. Die Models kannten sich nach der recherchierten Entstehungsgeschichte zuvor nicht; ihre reale Beziehung ist **nicht** die Biografie der Spielfiguren. Auch die ursprüngliche Zuordnung der Namen zur Protagonistin war lange offen: Zeitweise war Tabetha als Protagonistin vorgesehen, inzwischen erscheint Elena passender.
+
 ## Persönlichkeit vor dem Unfall
 
 Lebendig, neugierig, frech und schlagfertig („quirky but sharp“). Eigenwillig und verspielt, aber nicht naiv. Eine besondere, unkonventionelle Schönheit; die außergewöhnlich großen, tiefbraunen Augen sind ein wichtiges Wiedererkennungsmerkmal.
