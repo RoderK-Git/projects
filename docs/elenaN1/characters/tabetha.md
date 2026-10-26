@@ -12,7 +12,7 @@ Elena wirft sich bei einem Verkehrsunfall für Tabetha vor ein Auto. Elena fäll
 
 Die beiden Mädchen verbindet eine außergewöhnlich enge Beziehung, die über ihre gemeinsame Kindheit hinausreichen und sich zu einer aufrichtigen Liebesbeziehung entwickeln kann. Der genaue zeitliche Verlauf und die Form dieser Entwicklung bleiben offen. Ihre Nähe ist nicht bloß ein erzählerischer Zweck, sondern ein wesentlicher Teil ihrer Figuren.
 
-Eine mögliche spätere Szene verdeutlicht Tabethas Haltung: Elenas Mutter stellt die Frage, ob Elena in ihrem kybernetischen Körper überhaupt noch ein organisches Gehirn besitzt. Tabetha verteidigt Elena entschieden gegen die implizite Infragestellung ihrer Identität und Menschlichkeit. Elena selbst ist diese biologische Unterscheidung weitgehend gleichgültig: Ihr Verhalten, ihre Erinnerungen und ihr Bewusstsein sind für sie ausschlaggebend. Tabethas Reaktion entspringt der Liebe und Loyalität, nicht zwingend einem Schutzbedürfnis Elenas.
+Eine mögliche spätere Szene verdeutlicht Tabethas Haltung: Elenas Mutter stellt die Frage, ob Elena in ihrem kybernetischen Körper überhaupt noch ein organisches Gehirn besitzt. Tabetha verteidigt Elena entschieden. **Für Tabetha ist es egal, ob noch etwas organisch Menschliches von Elena existiert:** Verhalten, Erinnerungen und Bewusstsein sind für sie entscheidend. **Elenas eigene Haltung bestimmt dagegen der Spieler.** Elena kann dieselbe Gewissheit teilen oder unter der Ungewissheit und äußeren Einflüssen wie Lenas möglicher Ablehnung leiden. Tabethas Loyalität schreibt Elena keine Reaktion vor.
 
 ### Ursprung der Namenskombination
 
