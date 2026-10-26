@@ -18,7 +18,9 @@ Pip erschafft diese Welten zu diesem Zeitpunkt **nicht**. Das geschieht erst aus
 
 ## Opfer und Erkenntnis
 
-Pip erklärt Barney offen, dass der goldene Schläger nur dadurch entsteht, dass Barney ihn erschlägt, und dass diese Waffe für den Sieg über den Imperator benötigt wird. Er ermutigt Barney sogar zum Schlag.
+Der goldene Schläger existiert bereits. Barney und Pip könnten ihn in einem Ruinenraum entdecken, wo ihn eine Barriere schützt. Eine Inschrift – möglicherweise in Pips Geheimsprache – erklärt die Bedingung, unter der die Waffe zugänglich wird: Barney muss Pip erschlagen. Pip erklärt Barney diese Opferbedingung und dass die Waffe für den Sieg über den Imperator nötig ist. Er ermutigt Barney sogar zum Schlag.
+
+Der goldene Schläger gehört **nicht** zu den Ausrüstungsgegenständen, die Pip kurz zuvor für Barney platziert hat. Seine Herkunft, die Bedeutung der Ruine und die genauere Geschichte der Waffe sind noch offen.
 
 **Pip weiß nicht, dass sein Tod zur Erkenntnis seiner Göttlichkeit führt.** Er opfert sich allein, um seinem Freund zu helfen. Der Spieler könnte auf den Kampf gegen den Imperator verzichten und umkehren; Pip fordert das Opfer nicht als unausweichliche Pflicht ein.
 
