@@ -91,4 +91,4 @@ Seine eigentliche Natur bleibt den meisten Figuren verborgen.
 
 Auch für den Spieler müssen die Zusammenhänge nicht offensichtlich sein. Vielmehr können wiederkehrende Details, Ereignisse und Hinweise erst im Rückblick ihre vollständige Bedeutung entfalten.
 
-Der Pip-Stone ist damit nicht nur ein wiederkehrendes Artefakt, sondern Ausdruck einer Wirklichkeit, in der Schöpfung, Zeit und Kausalität keiner festen Ordnung unterliegen.
+Der Stein muss in den einzelnen Spielen nicht im Mittelpunkt stehen. Seine Einzigartigkeit erklärt etwa, warum Elenas Shell nicht in Serie hergestellt werden kann. Pip selbst tritt nach seinem Abenteuer nicht mehr persönlich auf. Der Pip-Stone ist damit nicht nur ein wiederkehrendes Artefakt, sondern Ausdruck einer Wirklichkeit, in der Schöpfung, Zeit und Kausalität keiner festen Ordnung unterliegen.
