@@ -22,7 +22,7 @@ Der Pip
 - Gengineer
 - What a Braith
 - SkinPerFaction
-- TextureReduct
+- Texture Reference Deduplicator
 - 6 Blades
 - Sugar Rush/Slaughter Race
 - Angel´s Guardian
