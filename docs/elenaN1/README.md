@@ -33,3 +33,21 @@ Unterschiedliche Akteure möchten Elena für ihre Interessen gewinnen oder instr
 Als mögliche kommunikative Zuspitzung wurde diskutiert: *“The world's most advanced creation. Just a girl.”* — lediglich ein Slogan-Vorschlag, nicht festgelegt.
 
 **Zentrale Frage:** Wer bestimmt, was Elena ist — ihre Schöpfer, die Interessengruppen oder sie selbst?
+
+## Neue Detaildokumentation
+
+### Handlung
+- [Prolog, Erinnerungs-Tutorial und Erwachen](story/prolog-und-tutorial.md)
+- [Begegnungen und Familienkonflikte](story/begegnungen-und-konflikte.md)
+
+### Figuren
+- [Noémi](characters/noemi.md)
+- [Cornelius](characters/cornelius.md)
+- [Noémis Mutter](characters/noemis-mutter.md)
+- [Elenas Vater / Chefingenieur](characters/elenas-vater.md)
+- [Tabetha](characters/tabetha.md)
+
+### Technologie
+- [Shell, Bewusstseinstransfer und Energiekern](technology/shell-und-energiekern.md)
+
+**Aktualisierte Klarstellung:** Elena ist die Tochter des Chefingenieurs, Noémi die Tochter von Cornelius. Elena hat keine allgemeine Amnesie: Sie kennt die geheimen Hintergründe des Transfers nicht. Der Tutorial-Prolog besteht aus Erinnerungsrekonstruktionen zur motorischen Kalibrierung. Die früheren Übersichtsdateien enthalten teilweise noch überholte offene Punkte; bei Abweichungen gelten die verlinkten Detaildokumente als aktueller Arbeitsstand.
