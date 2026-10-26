@@ -75,7 +75,9 @@ Der Spieler kann jederzeit auf diesen Weg verzichten. Pip selbst erklärt ledigl
 
 Um den mächtigen, Imperator der Invasion besiegen zu können, benötigt Barney eine besondere Waffe: den **goldenen Baseballschläger**.
 
-Doch dessen Erlangung verlangt ein schweres Opfer.
+Der Schläger existiert bereits und könnte in einem Ruinenraum hinter einer Barriere verwahrt werden. Eine Inschrift, möglicherweise in Pips Geheimsprache, erklärt die Bedingung für den Zugang. Die Herkunft des Schlägers und die Geschichte dieses Ortes sind noch offen.
+
+Doch die Erlangung der Waffe verlangt ein schweres Opfer.
 
 Barney muss seinen treuen Freund Pip eigenhändig erschlagen.
 
@@ -289,7 +291,7 @@ Diese erweitern seine Möglichkeiten im Kampf und beim Überwinden von Hindernis
 
 Der goldene Schläger bildet schließlich die ultimative Waffe, mit der der finale Gegner besiegt werden kann.
 
-Die Upgrades und Hilfsmittel wurden von Pip auf seiner eigenen Reise vorbereitet und versteckt.
+Viele Upgrades und Hilfsmittel wurden von Pip auf seiner eigenen Reise vorbereitet und versteckt. **Der goldene Schläger ist eine Ausnahme:** Er existiert bereits unabhängig von Pips Vorbereitungen; seine Herkunft ist noch ungeklärt.
 
 ### Pitcher Pip als Sidekick
 
@@ -504,6 +506,8 @@ Der Pip-Stone ist in anderen Geschichten meist kein zentrales Thema, sondern ein
 - Genaue Abfolge der einzelnen Welten und Ereignisse
 - Herkunft und Motivation der außerirdischen Invasoren
 - Konkrete Rolle des Imperator während der Handlung
+- Gestaltung des Ruinenraums, der Barriere und der Inschrift am goldenen Schläger
+- Herkunft und Geschichte des goldenen Schlägers
 - Inszenierung von Pips Opfer
 - Ablauf des finalen Kampfes
 - Genaue Gestaltung der Enthüllung um den Imperator
