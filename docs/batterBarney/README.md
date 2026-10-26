@@ -63,9 +63,17 @@ Dennoch betrachtet Pip sie selbst als etwas völlig Gewöhnliches.
 
 Er ist Barney nahezu bedingungslos ergeben und stellt dessen Wohlergehen über sein eigenes.
 
+### Enden und Freischaltung
+
+Der reguläre Abschluss von Barneys Abenteuer ist möglich, ohne Pip zu erschlagen oder sämtliche Forderungen Gwendolyns zu erfüllen.
+
+Für den verborgenen Abschluss und die Freischaltung von **Pips eigenem Playthrough** muss der Spieler dagegen Gwendolyns Nebenmissionen erfüllen, den goldenen Schläger erlangen und den Imperator besiegen. Die genauen Freischaltbedingungen sind noch auszuarbeiten.
+
+Der Spieler kann jederzeit auf diesen Weg verzichten. Pip selbst erklärt lediglich, dass der goldene Schläger für den Sieg über den Imperator nötig ist – nicht, dass dieser Sieg zwingend errungen werden muss. Das Spiel soll diese moralische Alternative nicht ausdrücklich kommentieren. Der Wunsch, wirklich alles zu sehen, treibt den Spieler womöglich dazu, Entscheidungen zu treffen, deren Gemeinheit er längst erkannt hat.
+
 ### Der goldene Schläger
 
-Um den mächtigen, maskierten Anführer der Invasion besiegen zu können, benötigt Barney eine besondere Waffe: den **goldenen Baseballschläger**.
+Um den mächtigen, Imperator der Invasion besiegen zu können, benötigt Barney eine besondere Waffe: den **goldenen Baseballschläger**.
 
 Doch dessen Erlangung verlangt ein schweres Opfer.
 
@@ -83,7 +91,7 @@ Der Anführer der Invasion verbirgt seine Identität hinter einer Maske.
 
 Barney stellt sich ihm im finalen Kampf und besiegt ihn mithilfe des goldenen Schlägers.
 
-Erst in einer der abschließenden Szenen wird die eigentliche Bedeutung des maskierten Gegners erkennbar.
+Erst in einer der abschließenden Szenen wird die eigentliche Bedeutung des Imperators erkennbar.
 
 Denn Barney setzt schließlich selbst dessen Maske auf.
 
@@ -99,7 +107,7 @@ Sie verlässt Barney damit endgültig.
 
 Nach all den Enttäuschungen, die Barney bereits durch sie erlitten hat, bringt ihn dieser Abschied schließlich an seine Grenzen.
 
-Er wird zu jenem maskierten Widersacher, den er zuvor selbst bekämpft hat.
+Er wird zu jenem Imperator, den er zuvor selbst bekämpft hat.
 
 Aus seiner Verzweiflung heraus initiiert er den Angriff auf die Erde.
 
@@ -263,6 +271,16 @@ Eine Zielhilfe kann den nächstgelegenen geeigneten Ball berücksichtigen.
 
 Sie soll das präzise Treffen erleichtern, ohne die grundlegende Steuerung zu ersetzen.
 
+### Pips Ausrüstungsübersicht
+
+Weil Pip die Ausrüstung auf den Planeten selbst versteckt und die nötigen Zugänge vorbereitet hat, kann er Barney Auskunft über vorhandene und bereits gefundene Schläger oder Upgrades geben. Auch kann er einschätzen, welche Fundstücke mit Barneys aktueller Ausrüstung erreichbar sind. Konkrete Tipps könnten optional bleiben.
+
+Fragt Barney nach der Herkunft dieses Wissens, weicht Pip aus. Gwendolyn kann die Erklärung durch eine neue Forderung an Barney unterbrechen, ohne Pips Geheimnis zu kennen.
+
+### Gwendolyns Nebenmissionen
+
+Gwendolyn verlangt von Barney Dinge, die sie schön, niedlich oder begehrenswert findet. Die Folgen interessieren sie kaum: Selbst das letzte Weibchen einer bedrohten Tierart könnte für sie ein begehrtes Kuscheltier sein. Der Spieler erkennt ihre Selbstsucht, kann ihre Aufträge aber dennoch für den verborgenen Abschluss erledigen.
+
 ### Baseballschläger und Upgrades
 
 Im Verlauf des Spiels erhält Barney unterschiedliche Verbesserungen für seinen Baseballschläger.
@@ -271,7 +289,7 @@ Diese erweitern seine Möglichkeiten im Kampf und beim Überwinden von Hindernis
 
 Der goldene Schläger bildet schließlich die ultimative Waffe, mit der der finale Gegner besiegt werden kann.
 
-Ein Teil der Upgrades könnte innerhalb der Spielwelt von Pip vorbereitet und versteckt worden sein.
+Die Upgrades und Hilfsmittel wurden von Pip auf seiner eigenen Reise vorbereitet und versteckt.
 
 ### Pitcher Pip als Sidekick
 
@@ -311,7 +329,7 @@ Pip existiert bereits während seiner Kindheit weitgehend unabhängig vom gewöh
 
 Neben Barneys eigentlichem Abenteuer ist ein zusätzlicher Spielmodus mit Pitcher Pip denkbar.
 
-Dieser könnte entweder zwischen einzelnen Abschnitten von Barneys Geschichte stattfinden oder als eigenständiger zweiter Playthrough freigeschaltet werden.
+Er wird durch Barneys verborgenen Abschluss als eigenständiger zweiter Playthrough freigeschaltet.
 
 Während Barney einen Action-Plattformer erlebt, wäre Pips Abenteuer stärker als **Puzzle-Plattformer** ausgelegt.
 
@@ -397,6 +415,10 @@ Diese Mechaniken sind bislang lediglich konzeptionelle Möglichkeiten.
 
 ## Erzählweise und Inszenierung
 
+### Trailer-Idee: „A man and his bat“
+
+Eine pathetische Stimme kündigt „A man … and his bat“ an. Zunächst erscheint eine Fledermaus (*bat*), die Barney mit seinem Baseballschläger aus dem Bild schlägt. Die Pointe lautet „THIS bat.“ Anschließend beginnt der eigentliche Gameplay-Trailer. Ein gelegentlicher Spitzname „Batman“ könnte im Intro durch Passanten in Sovic fallen; für die Vermarktung bleibt die Figur Batter Barney.
+
 ### Humor als Grundton
 
 *Batter Barney* ist deutlich humoristischer angelegt als andere Geschichten des gemeinsamen Universums.
@@ -423,7 +445,7 @@ Barney erhält von Pip nahezu uneingeschränkte Unterstützung, während er sich
 
 ### Der Held als eigener Widersacher
 
-Die Enthüllung des maskierten Barney verändert rückblickend die Bedeutung der gesamten Spielhandlung.
+Die Enthüllung des Imperator verändert rückblickend die Bedeutung der gesamten Spielhandlung.
 
 Der vermeintliche Held wird schließlich selbst zum Auslöser jener Katastrophe, gegen die er zuvor gekämpft hat.
 
@@ -467,16 +489,24 @@ In anderen Geschichten tritt der Stein unter anderem als Energiequelle, Werkzeug
 
 ---
 
+## Tonalität und übergreifende Spielwelt
+
+*Batter Barney* soll locker, unverbindlich und cartoonhaft bleiben, auch wenn sein Humor gelegentlich rabenschwarz ist. Die späteren Spiele im gemeinsamen Universum dürfen deutlich düsterer werden. Die Verbindung liegt in einer konsistenten Kosmologie, nicht in einer fortlaufenden Handlung oder wiederkehrenden Auftritten Pips.
+
+Der Pip-Stone ist in anderen Geschichten meist kein zentrales Thema, sondern ein beiläufiges Element, das besondere Konstellationen plausibel macht. So erklärt seine Einzigartigkeit, warum Elenas Shell nicht massenproduziert werden kann.
+
+**Imperator** ist die vorläufige Bezeichnung für Barneys maskierten Widersacher.
+
 ## Offene Punkte
 
 ### Story
 
 - Genaue Abfolge der einzelnen Welten und Ereignisse
 - Herkunft und Motivation der außerirdischen Invasoren
-- Konkrete Rolle des maskierten Barney während der Handlung
+- Konkrete Rolle des Imperator während der Handlung
 - Inszenierung von Pips Opfer
 - Ablauf des finalen Kampfes
-- Genaue Gestaltung der Enthüllung um den maskierten Barney
+- Genaue Gestaltung der Enthüllung um den Imperator
 - Inszenierung von Gwendolyns endgültigem Abschied
 - Ausgestaltung des ultimativen Abspanns
 
@@ -492,7 +522,7 @@ In anderen Geschichten tritt der Stein unter anderem als Energiequelle, Werkzeug
 
 ### Pitcher-Pip-Spielmodus
 
-- Eigenständiger zweiter Playthrough oder wechselnde Spielabschnitte
+- Konkrete Ausgestaltung des freischaltbaren zweiten Playthroughs
 - Konkrete Puzzle-Mechaniken
 - Umfang des Bau- und Erfindungssystems
 - Regeln für die Interaktion mit angehaltener Zeit
