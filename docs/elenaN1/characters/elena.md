@@ -8,15 +8,15 @@ Elena ist die jugendliche Protagonistin. Nach einem Unfall, bei dem sie sich fü
 
 ## Identität und Bewusstsein
 
-Eine grundlegende Frage ist, ob in der Shell noch ein organisches Gehirn steckt oder Elenas Bewusstsein vollständig elektronisch existiert. **Für Elena selbst ist das nicht entscheidend:** Ihr Verhalten, ihre Erinnerungen und ihr Bewusstsein bestimmen für sie, wer sie ist. Ob andere ihre Menschlichkeit biologisch nachweisen wollen, ändert daran nichts.
+Eine grundlegende Frage ist, ob in der Shell noch ein organisches Gehirn steckt oder Elenas Bewusstsein vollständig elektronisch existiert. **Elenas Haltung dazu bleibt dem Spieler überlassen.** Sie kann sich über Erinnerungen, Bewusstsein und Verhalten definieren, aber ebenso unter der Ungewissheit leiden, ob noch etwas organisch Menschliches von ihr übrig ist. Äußere Einflüsse, insbesondere Lenas mögliche Ablehnung, können ihre Selbstwahrnehmung verändern.
 
-Als mögliche Szene stellt ihre Mutter die Frage, ob Elena überhaupt noch ein Gehirn besitzt. Tabetha verteidigt Elena entschieden gegen die darin liegende Infragestellung. Elena selbst misst der Unterscheidung wenig Bedeutung bei. Dieser Gegensatz zeigt Elenas Selbstverständnis und Tabethas emotionale Loyalität, ohne den konkreten Dialog bereits festzulegen.
+In einer möglichen Szene fragt ihre Mutter, ob sie überhaupt noch ein Gehirn besitzt. **Tabetha** hält diese biologische Frage für unerheblich und verteidigt Elena: Für Tabetha bleibt Elena durch ihr Verhalten, ihre Erinnerungen und ihr Bewusstsein dieselbe Person. Elena selbst kann zustimmen, zweifeln oder anders reagieren – abhängig von den Spielerentscheidungen.
 
 ## Beziehung zu Tabetha
 
 Elena und Tabetha verbindet seit ihrer Kindheit eine tiefe Nähe und eine unbeschwerte, verspielte gemeinsame Vergangenheit. Ihre Beziehung kann sich zu einer **aufrichtigen Liebesbeziehung** entwickeln; Zeitpunkt und Verlauf bleiben offen. Der Unfall trennt die beiden zunächst: Elena verliert ihren bisherigen Körper, Tabetha kämpft mit Trauer und Schuldgefühlen. Ihre spätere Begegnung birgt großes emotionales Potenzial, gerade weil Elenas Äußeres nicht mehr das vertraute ist.
 
-Tabetha ist nicht nur Beschützerin und Elena nicht nur Schutzbedürftige. Beide haben eigene Sichtweisen. Tabethas Bereitschaft, Elenas Menschlichkeit zu verteidigen, kontrastiert mit Elenas gelassener Gewissheit über die eigene Identität.
+Tabetha ist nicht nur Beschützerin und Elena nicht nur Schutzbedürftige. Beide haben eigene Sichtweisen. Tabethas Gewissheit kann Elenas eigenen Zweifeln gegenüberstehen oder sie in einer ähnlichen Haltung bestärken.
 
 ## Inspiration: *Kiss* von Tanya Chalkin
 
