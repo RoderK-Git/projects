@@ -33,3 +33,22 @@ Ein scheinbar tödlicher Kampf oder die massive Zerstörung der Shell kann zu ei
 - [Bewusstseinsidentität und Entscheidungen](../story/bewusstseinsidentitaet-und-entscheidungen.md)
 - [Storylet-Archiv](../story/storylet-archiv.md)
 - [Begegnungen und Konflikte](../story/begegnungen-und-konflikte.md)
+
+
+## Festlegung: Keine Game-Over-/Checkpoint-Schleife
+**Kanonisches Designprinzip:** Es gibt kein klassisches Game Over und kein „Continue vom letzten Speicherpunkt“ als Reaktion auf Niederlagen. Der aktuelle Durchlauf wird als fortlaufende, kausale Geschichte behandelt. **Continues** sind neue Zustände und Entwicklungen derselben Geschichte, die irgendwann in einem von vielen möglichen Enden münden.
+
+Ein verlorener Kampf, auch gegen einen gewöhnlichen Gegner, ist nicht automatisch ein Ende. Wenn Elenas Bewusstsein überlebt, können Bergung, Gefangenschaft, Reparatur oder andere Konsequenzen die Geschichte fortsetzen. Ein Durchlauf kann dennoch endgültig enden, beispielsweise wenn Elena aufgrund extrem unklugen Handelns aus der Shell gerissen wird und keine Wahrnehmung oder fortsetzbare Existenz mehr hat.
+
+## Strikte Wahrnehmungsperspektive
+Der Spieler teilt ausschließlich **Elenas Wahrnehmung**. Ereignisse während ihrer Bewusstlosigkeit werden nicht durch eine externe allwissende Kameraperspektive erzählt. Was in dieser Zeit geschah, erschließt sich nach einem Erwachen nur durch ihre neuen Eindrücke, Gespräche und Spuren.
+
+Die Perspektive definiert auch die Grenze des Durchlaufs: Ist keine weitere Wahrnehmung Elenas möglich, endet die Geschichte. Bewusstlosigkeit allein ist **kein** Ende; entscheidend ist, ob sie wieder zu Bewusstsein gelangen kann.
+
+### Dramaturgische Möglichkeit (nicht festgelegt)
+Nach schwerer Niederlage Schwarzbild, eventuell später Geräusche, Stimmen oder Erwachen in veränderter Umgebung. Ob es weitergeht, wird nicht durch einen Game-Over-Bildschirm vorweggenommen.
+
+### Zu klären
+- Unterschied zwischen Ende des Durchlaufs und speicherbaren Pausen außerhalb der Spielwelt.
+- Umgang mit unumkehrbaren Fehlentscheidungen und Frust, ohne Niederlagen folgenlos zu machen.
+- Kriterien für endgültigen Wahrnehmungsverlust bei biologischem und digitalem Bewusstsein.
