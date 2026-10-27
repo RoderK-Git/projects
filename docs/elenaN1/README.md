@@ -61,3 +61,6 @@ Als mögliche kommunikative Zuspitzung wurde diskutiert: *“The world's most ad
 - [Vorläufige Zeitlinie und Beziehungsoptionen](story/zeitlinie-und-beziehungen.md)
 
 **Hinweis:** Elena soll beim Erwachen voraussichtlich volljährig sein (etwa 18); ältere Formulierungen wie „Teenager“ sind damit nicht zwingend widersprüchlich, das genaue Alter und die Koma-Dauer bleiben offen. Storyzweige und Technikvarianten sind Möglichkeiten, nicht bereits festgelegte Ereignisse.
+
+### Gameplay – Kampfsystem
+- [Taktisches Martial-Arts-Kampfsystem (Prototyp-Konzept)](gameplay/kampfsystem.md)
