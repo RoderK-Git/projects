@@ -1,17 +1,31 @@
 # Begegnungen und zentrale Konflikte
 
 ## Elena und Tabetha
-Tabetha ist Elenas langjährige enge Freundin. Elena warf sich für sie vor ein Auto und fiel ins Koma. Nach dem Erwachen in der Shell erkennt niemand Elena an ihrem Äußeren, auch ihre Mutter Lena nicht. Elena begegnet Tabetha möglicherweise zufällig auf der Straße. Spielerisch kann sie versuchen, Tabetha davon zu überzeugen, wer sie ist. Wie Tabetha reagiert, bleibt offen; ihre tiefe Loyalität und ihre Schuldgefühle sind in [Tabethas Figurenakte](../characters/tabetha.md) dokumentiert.
+Tabetha ist Elenas enge Freundin aus Kindheit und Jugend. Vor dem Unfall waren sie befreundet, möglicherweise mit gegenseitig unausgesprochenen romantischen Gefühlen. Elena warf sich für Tabetha vor ein Auto und fiel ins Koma. Tabetha gibt sich die Schuld, geriet emotional aus dem Gleichgewicht und entfernte sich von ihrem bisherigen Umfeld.
 
-## Wiedererkennen des fremden Gesichts
-Elena erinnert sich vage daran, das Gesicht ihres neuen Körpers schon einmal gesehen zu haben: möglicherweise auf einem älteren Zeitungsbild über Cornelius, auf dem Noémi im Hintergrund zu sehen war. Die konkrete Platzierung dieses Hinweises ist offen.
+Nach Elenas Erwachen in der äußerlich fremden Shell ist eine Wiederbegegnung vorgesehen, aber keine sofortige Wiedererkennung: Tabetha hält Elenas Behauptung zunächst für einen grausamen Scherz, reagiert wütend und weist sie zurück. Erst ein spielerischer Erinnerungsnachweis bringt Gewissheit. Danach folgen Überforderung und **heftige Erleichterung**; ihre aufrichtige Loyalität ist der Kern einer möglichen Romanze, nicht ein Zwang für den Spieler.
+
+Siehe [Wiedererkennungs-Minispiel](../gameplay/tabetha-erinnerungsminispiel.md) und [Tabethas Figurenakte](../characters/tabetha.md).
+
+## Noémi und Elena
+Die Shell wurde für Cornelius' schwerkranke Tochter Noémi entwickelt, aber von Elenas Vater für Elena verwendet. Noémi weiß zunächst nichts von dem Projekt, kann sich bei einer Begegnung jedoch manches zusammenreimen. Sie reagiert neugierig, besonnen und ohne Groll. Tabetha kennt allenfalls vage Bilder von Noémi aus älteren Klatschzeitungen; die damals schon auffällige Blässe erschwert die Verbindung zur gesund wirkenden Shell.
+
+**Optionale frühe Sichtung:** Bei Elenas Flucht über die Fassade zum Dach des Obelisken beobachtet Noémi sie aus einem hochgelegenen Fenster, fast unbemerkt.
+
+**Mögliche spätere Szene:** Eine wegen Cornelius' Verfolgung wütende Elena stürmt in Noémis Zimmer und wird mit deren tatsächlicher Verletzlichkeit konfrontiert. Schuldgefühle und die Frage einer freiwilligen Rückgabe der Shell können sich entwickeln; Elenas Überleben steht dabei auf dem Spiel. Kein feindseliges Verhältnis zwischen den Mädchen als Vorgabe.
 
 ## Zwei Familien, kollidierende Rettungsversuche
-Cornelius ließ den einzigartigen Körper bauen, um seine todkranke Tochter Noémi zu retten. Elenas Vater, der Chefingenieur, zweckentfremdete ihn unerlaubt, um Elena nach ihrem langen Koma zu retten. Noémis Überlebenschance steht dadurch auf dem Spiel. Elena hat diese Entscheidung nicht getroffen, muss aber mit ihren Folgen leben.
+Cornelius ließ den einzigartigen Körper bauen, um Noémi zu retten. Elenas Vater, der Chefingenieur, verwendete ihn unerlaubt zur Rettung seiner komatösen Tochter. Elena hat dies nicht entschieden. Cornelius wirkt wie ein Antagonist, sucht aber eine vernünftige Lösung und will Elena nicht gewaltsam opfern. Noémis Mutter könnte deutlich radikaler reagieren; eine Vergeltung an Elenas Vater als groteskes Maschinenwesen bleibt eine **offene düstere Variante**, kein Kanon.
 
-Cornelius erscheint als abgebrühter, einflussreicher Geschäftsmann mit Waffenbezug. Er will den Körper vor allem **durch Vernunft** für Noémi zurückgewinnen; er ist nicht primär als rachsüchtiger Bösewicht gedacht.
+## Organisationen, Macht und Manipulation
+Mehrere Interessengruppen konkurrieren um Elena. Besonders die leicht zugängliche, freundlich auftretende Organisation soll sie über echte Hilfe, Vertrauen und Bindungen schrittweise als Werkzeug für die Machtinteressen ihres Leiters gewinnen. Er gibt sich als Freund oder Bekannter von Elenas Vater aus und könnte es tatsächlich sein. Er kann Lena unter dem Vorwand bzw. mit dem echten Ziel ihres Schutzes aufnehmen und über sie Einfluss auf Elena ausüben, ohne dass Lena seine Absichten durchschaut. Lena bleibt eine eigenständig handelnde Figur.
 
-Noémis Mutter ist eine hochkarätige Wissenschaftlerin. Sie macht Elenas Vater dafür verantwortlich, Noémi zum Tode verurteilt zu haben. **Düstere, noch offene Möglichkeit:** Sie verwandelt ihn als Vergeltung in ein groteskes Maschinenwesen, das nicht mehr verständlich kommunizieren kann. Das ist ein möglicher späterer Handlungsstrang, kein feststehender Kanon.
+Die Organisationsleiter kennen sich möglicherweise aus gemeinsamen früheren Projekten; alte Rivalitäten, persönliche Kränkungen und Machtansprüche wirken neben politischen und wirtschaftlichen Interessen. Cornelius kann sich später als ehrlicher und verantwortungsvoller erweisen als zunächst freundliche Konkurrenten.
 
-## Langfristige Fragen
-Wem steht der Körper zu? Wie frei darf Elena über ihr eigenes Überleben entscheiden? Wie reagieren Mutter, Freundin und ursprüngliche Auftraggeberfamilie auf Elenas Identität? Die Geschichte soll keine einfache Gut-Böse-Auflösung erzwingen.
+Ein junger technikbegeisterter Mitarbeiter (ca. 20–25) analysiert und verbessert Elenas Shell, zunächst im ehrlichen Glauben an die Ziele seiner Organisation. Zwischen ihm und Elena können Freundschaft und gegebenenfalls eine Romanze entstehen; sein Loyalitätskonflikt zwischen Arbeitgeber und Elena kann verschiedene Ausgänge nehmen. Siehe [Techniker](../characters/techniker-organisation.md).
+
+## Beziehungen und Entscheidungsfreiheit
+Mehrere mögliche Romanzen nach dem Vorbild eines verzweigten Rollenspiels (z. B. Mass Effect). Die Wiederbegegnung mit Tabetha wird dramaturgisch begünstigt, eine Liebesbeziehung jedoch nicht erzwungen. Ihre Loyalität und die gemeinsame Vergangenheit bleiben auch ohne Romanze wichtig. Beziehungen sollen auf explizite und implizite Entscheidungen reagieren, nicht allein auf einen simplen Zustimmungszähler.
+
+## Offene Identitätsfrage
+Wem steht die Shell zu? Existiert Elenas organisches Gehirn noch? Was macht die Kontinuität eines digitalisierten Bewusstseins aus? Diese Fragen sollen nicht vorab eindeutig aufgelöst werden.
