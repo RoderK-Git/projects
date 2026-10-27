@@ -59,3 +59,50 @@
 3. Auch unfertige Dialogfetzen und kleine visuelle Anker bewahren.
 4. Verweise auf vorhandene Dateien setzen, statt widersprüchliche Fassungen unmarkiert zu vermischen.
 5. Erst nach ausdrücklicher Klärung Ideen verwerfen oder kanonisieren.
+
+
+## Ergänzender projektübergreifender Chat-Abgleich (Elena-Projekt, Stand Oktober 2026)
+
+### Flucht aus dem Labor – konkrete Entscheidungsfragmente
+- Nach der Traumkalibrierung folgt ein Schuss. Sicherheitskräfte haben Elenas Vater festgenommen und verlangen, dass sie herauskommt.
+- Der Vater hat Hinweise und einen Fluchtplan hinterlassen. Erste unmittelbare Wahl: **Tür / Fenster / abwarten**. Kooperation, Verzögerung und eigenmächtige Flucht müssen jeweils Konsequenzen erhalten; Details offen.
+- Eine mögliche Route führt über die Fassade in Richtung Dach des Obelisken. Noémi kann Elena dabei aus einem hochgelegenen Fenster beobachten, ohne dass Elena sie zwingend bemerkt.
+- Kapitelziel ist zunächst nicht, die ganze Welt zu erklären, sondern aus dem Komplex zu entkommen und Distanz zu gewinnen; mehrere Wege, Demo-Fokus.
+
+### Noémi – mögliche Begegnungen
+- Noémi weiß zunächst nichts vom gestohlenen Körper, kann sich bei einem Treffen aber die Zusammenhänge erschließen.
+- Sie reagiert eher besonnen, neugierig und nicht automatisch feindselig.
+- Eine spätere Szene kann Elena wütend in Noémis Zimmer führen; der Anblick des schwerkranken Mädchens konfrontiert sie mit der Konsequenz des Shell-Diebstahls.
+- Der Konflikt „eigene Existenz behalten oder Noémi retten“ ist ein großer späterer Handlungsanker, nicht automatisch moralisch vorentschieden.
+- **Düstere Variante, kein Kanon:** Noémis Mutter könnte aus Vergeltung Elenas Vater in ein groteskes Maschinenwesen verwandeln.
+
+### Organisationen, Macht und Beziehungen
+- Die zunächst freundlich auftretende Organisation kann Elena durch echte Hilfe und Vertrauen an sich binden, während ihr Leiter eigene Machtziele verfolgt.
+- Der Leiter gibt sich als alter Freund/Bekannter von Elenas Vater aus; möglicherweise stimmt das sogar.
+- Lena könnte zum Schutz in die Organisation aufgenommen werden, wodurch Elena indirekt beeinflusst wird, ohne dass Lena die Absicht erkennt.
+- Führungspersonen verschiedener Organisationen können gemeinsame Vergangenheit, Konkurrenz und persönliche Kränkungen mitbringen.
+- Der junge Techniker der Organisation (in neueren Gesprächen Kensuke genannt) ist anfangs vom Auftraggeber überzeugt; Forschung, Upgrades, Nähe zu Elena und Loyalitätskonflikt sind kombinierbare Storylets. Name/Identität mit der bisherigen Figurenakte abgleichen.
+- Mögliche Beziehungspfade (einschließlich Tabetha und Techniker) orientieren sich an verzweigten Rollenspielen; keine Romanze erzwingen. Beziehungen durch explizite **und** implizite Entscheidungen prägen.
+
+### Körper, Menschlichkeit, Selbstbestimmung
+- Der Körper kann übermenschliche Leistung erbringen und ist durch den Pip-Stone einzigartig. Interessengruppen wollen Elena als Waffe, Ressource oder Symbol einer überlegenen Art.
+- Eine Spielerroute kann Geheimhaltung anstreben, eine andere militärische Nutzung, daneben Abstufungen.
+- Upgrades können auch alltägliche Wünsche wie Feinmotorik und Berührungssinn betreffen. Elena soll nicht bloß als optimierbare Maschine behandelt werden.
+- Identität und organisches Gehirn bleiben bis zur optionalen Aufklärung ungewiss; keine Spielerhaltung als moralisch richtige vorgeben.
+
+### Visuelle und emotionale Anker
+- Tabethas zweifarbige Haarsträhnen sind nach dem Unfall entstanden und markieren die vergangene Zeit.
+- Eine unter Kleidung verborgene Kette kann beim Wiedererkennungs-Minispiel Erinnerung auslösen, ohne selbst sichtbar zu sein.
+- Die Wiedererkennung schlägt von heftiger Zurückweisung in Überforderung und Erleichterung um.
+- Lena und Elena tragen bewusst verwandte Namen; die Nähe der Namen kontrastiert mit der Entfremdung.
+- Für Lenas frühe Erinnerung: zugewandte, gesunde Mutter mit Kopftuch, aus Elenas Kleinkindperspektive.
+- Tabethas unerfüllter Wunsch, für Elenas Unfall gehasst zu werden, kontrastiert mit der Fürsorge ihrer Mutter.
+
+### Querverweise
+- [Prolog und Tutorial](prolog-und-tutorial.md)
+- [Begegnungen und Konflikte](begegnungen-und-konflikte.md)
+- [Zeitlinie und Beziehungen](zeitlinie-und-beziehungen.md)
+- [Bewusstseinsidentität und Entscheidungen](bewusstseinsidentitaet-und-entscheidungen.md)
+- [Techniker-Figurenakte](../characters/techniker-organisation.md)
+
+**Hinweis zur Herkunft:** Zusammengeführt aus den im Elena-Projekt verfügbaren früheren Gesprächsinhalten und dem aktuellen Repository. Die Zusammenstellung ist keine wortgetreue Volltexttranskription sämtlicher Chats. Bereits vorhandene Inhalte werden bewusst teilweise erneut als Storylets erfasst.
