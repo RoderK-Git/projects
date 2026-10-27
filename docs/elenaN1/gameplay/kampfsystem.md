@@ -51,3 +51,17 @@ Elena wird aus einiger Entfernung von Security gestellt. Ein Sicherheitsmann sch
 5. Erst bei Bedarf schmale Tiefenbewegung vergleichen.
 
 **Noch offen:** konkrete Eingabebelegung, Angriffsklassen und Konterbeziehungen, Darstellung der Signale, automatischer/manueller Fokus, Regeln für Affekt-Kontrollverlust, Gegner-Koordination, Schaden/Stabilität/Überwältigung, Kameraführung und Körper-spezifische Animationen.
+
+## Schadensmodell und kampfunabhängige Bedienung (27.10.2026)
+
+**Leitentscheidung:** Keine sichtbaren oder bloß unsichtbar herunterzuprügelnden Lebensbalken als Kampfkern. Gegner werden strategisch außer Gefecht gesetzt (z. B. Entwaffnung, Fixierung, Bewusstlosigkeit, Ausfall entscheidender Technik); Schwachstellen und Situation statt Damage-per-Second. Die genaue technische Abbildung bleibt offen.
+
+**Elenas Schäden sind dauerhaft bis zur Reparatur.** Ein kybernetischer Körper regeneriert nicht biologisch: beschädigte Motoren, zerstörte Gelenke oder abgetrennte Gliedmaßen bleiben beschädigt. Reparaturen sind erzählerisch unkompliziert, etwa per Zeitblende oder beiläufig während eines Gesprächs mit einem Ingenieur wie Kensuke. Keine Reparatur-Minispiele, Materialwirtschaft oder erforderliche technische Expertise Elenas; allenfalls rudimentäres Verständnis.
+
+**Gameplay-Kontinuität trotz Beschädigung:** Der Spieler verwendet weiterhin dieselben Kampfaktionen, Richtungs- und Absichtseingaben. Schaden verändert **vor allem die Choreografie und visuelle Darstellung**, nicht das grundlegende Moveset, die Steuerung oder den taktischen Regelkern. Elena findet eigenständig eine zum verbliebenen Körper passende Ausführung. Ein Angriff kann unbeschädigt als Tritt, mit fehlenden Gliedmaßen als akrobatischer Abstoß und Schlag realisiert werden. Keine kleinteilige Simulation einzelner Aktuatoren als Pflicht für den Spieler. Schwere Schäden können letztlich Kampfunfähigkeit und narrative Folgen bewirken; die genaue Schwelle ist noch zu definieren.
+
+**Referenz:** Alitas Kampf gegen Grewcica: selbst auf einen verbliebenen Arm reduziert, balanciert sie darauf, stößt sich ab und trifft den Gegner am Auge. Ähnlich spektakuläre, schadensabhängige Bosskampf-Choreografien sind erwünscht, aber **nicht als obligatorische geskriptete Verletzung**: Unterschiedliche Spielerleistungen erzeugen unterschiedliche Kampfverläufe und Inszenierungen. Schaden soll selten und bedeutsam bleiben, ohne den Spielfluss mit Strafmechaniken zu belasten.
+
+**Gesundheitsanzeige durch den Körper:** Zunehmende Beschädigung ist an fehlenden oder defekten Gliedmaßen, Körperhaltung und zunehmend improvisierter Bewegung unmittelbar ablesbar; kein klassischer Gesundheitsbalken nötig. Eine interne Zustandsrepräsentation ist möglich, darf aber nicht zum bloßen verdeckten HP-Balken verkommen. Körpervertrautheit beeinflusst Souveränität, Schäden beeinflussen die Art der Ausführung. Beides ändert nicht die Entscheidungshoheit des Spielers über das *Was*.
+
+**HUD-Grundsatz:** Informationen möglichst diegetisch über Welt, Elenas Sensorik, Körper und Wahrnehmung vermitteln; klassisches HUD nur, falls Verständlichkeit sonst nicht erreichbar ist.
