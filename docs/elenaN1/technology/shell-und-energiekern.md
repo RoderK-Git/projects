@@ -14,3 +14,10 @@ Der Kern ist das Gemeinschaftsprojekt mehrerer hochkarätiger Persönlichkeiten,
 
 ## Offene Fragen
 Energiehaushalt, Grenzen und Fähigkeiten der Shell, Herkunft des Pip-Stone, Reproduzierbarkeit einzelner Subsysteme, Rechte und Interessen der Kernentwickler sowie Natur des Bewusstseins.
+
+## Präzisierungen zur modularen Shell (27.10.2026)
+Die Shell ist funktional bereits vollständig, aber außerhalb des Core äußerlich sichtbar kybernetisch und ästhetisch unfertig. Die Sensorik ist voll funktionsfähig und passt sich Elenas Bewusstsein so an, dass sich der Körper natürlich anfühlt. Der Schuss unterbrach das Tutorial, nicht die grundlegende Körperfunktion. Der anfängliche Leistungs-Output ist auf ein mittleres, bereits übermenschliches Niveau gesetzt und kann vom Spieler später entdeckt und justiert werden.
+
+Der **Core** umfasst Kopf und Noémis unveränderliches Gesicht, Elenas Bewusstsein sowie den oberen Brustbereich mit Pip-Stone als „Herz“. Er ist das zentrale Ziel von Cornelius und Amanda. Der restliche humanoide **Body** kann grundsätzlich ersetzt oder aufgerüstet werden. Ob das Bewusstsein biologisch oder künstlich realisiert ist, bleibt offen.
+
+Weitere Details: [Core und Bodies](core-und-bodies.md), [Leistungssteuerung](../gameplay/leistung-und-progression.md) und [Informationsverbreitung](../gameplay/informationsverbreitung.md).
