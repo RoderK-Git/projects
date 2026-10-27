@@ -52,3 +52,23 @@ Nach schwerer Niederlage Schwarzbild, eventuell später Geräusche, Stimmen oder
 - Unterschied zwischen Ende des Durchlaufs und speicherbaren Pausen außerhalb der Spielwelt.
 - Umgang mit unumkehrbaren Fehlentscheidungen und Frust, ohne Niederlagen folgenlos zu machen.
 - Kriterien für endgültigen Wahrnehmungsverlust bei biologischem und digitalem Bewusstsein.
+
+
+## Bergung nach einer Niederlage: Beziehungen, Interessen und Zufall
+**Konzeptfestlegung:** Es gibt nicht **das** richtige Ende eines Spieldurchlaufs. Die Pip-Stone-Saga kann einen eigenen kanonischen Verlauf besitzen; dieser ist für das Spielerlebnis von Elena nebensächlich und soll nicht als einzig gültiger Ausgang behandelt werden.
+
+Die Auflösung einer schweren Niederlage hängt von bestehenden Beziehungen, Interessen und Zufällen ab. Mögliche Finder und Retter:
+- **Organisation, für die Elena überwiegend gearbeitet hat:** Kann gezielt eine Rettungs- oder Bergungsaktion organisieren. Motivation kann Zuneigung, Loyalität, Eigennutz oder Interesse an der Shell sein.
+- **Tabetha:** Könnte Elena mit sehr begrenzten Mitteln suchen und finden; ihre persönliche Bindung kann ihre Entschlossenheit erklären, ersetzt aber nicht die technischen Ressourcen für eine Reparatur.
+- **Passant:** Kann zufällig die beschädigte Shell entdecken, ohne Elena zu kennen; sein Handeln (Hilfe, Meldung, Ignorieren usw.) erzeugt weitere Ereignisse.
+- **Mitarbeiter:** Kann zufällig auf die Überreste stoßen und sie selbst bergen oder an Vorgesetzte/Organisationen melden.
+
+**Modellierungsvorschlag:** *Finden → Reaktion/Meldung → Bergung → Reparatur/Versorgung → Erwachen oder endgültiges Ende* als getrennte Schritte, die von Ort, Zeit, Wissen, Beziehungen, Ressourcen, Interessen und Zufall beeinflusst werden. Finder und tatsächlicher Retter müssen nicht identisch sein.
+
+**Mögliche Storylets (nicht festgelegt):**
+- Tabetha findet Elena, kann sie nicht reparieren und muss Hilfe von einer unerwünschten Partei erbitten.
+- Ein Passant meldet den Fund; dadurch erfahren mehrere konkurrierende Organisationen von der Shell.
+- Die bisherige Arbeitgeberorganisation rettet Elena, fordert anschließend aber Gegenleistungen.
+- Ein Mitarbeiter informiert seine Vorgesetzten, obwohl er die Tragweite seines Fundes nicht erkennt.
+
+**Wichtig:** Nicht jede Rettung muss durch eine frühere Entscheidung „verdient“ sein. Zufall und unerwartete Hilfe sind ausdrücklich Teil der Lebenssimulation. Umgekehrt garantiert eine gute Beziehung nicht, dass die betreffende Person rechtzeitig kommt oder helfen kann.
