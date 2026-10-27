@@ -51,3 +51,13 @@ Als mögliche kommunikative Zuspitzung wurde diskutiert: *“The world's most ad
 - [Shell, Bewusstseinstransfer und Energiekern](technology/shell-und-energiekern.md)
 
 **Aktualisierte Klarstellung:** Elena ist die Tochter des Chefingenieurs, Noémi die Tochter von Cornelius. Elena hat keine allgemeine Amnesie: Sie kennt die geheimen Hintergründe des Transfers nicht. Der Tutorial-Prolog besteht aus Erinnerungsrekonstruktionen zur motorischen Kalibrierung. Die früheren Übersichtsdateien enthalten teilweise noch überholte offene Punkte; bei Abweichungen gelten die verlinkten Detaildokumente als aktueller Arbeitsstand.
+
+## Ergänzungen: Figuren, Beziehungen und dynamische Welt (Oktober 2026)
+- [Noémis Erkrankung, Erscheinung, Isolation und mögliche Zukunft](characters/noemi.md) – Bildreferenzen und Perchance-Prompts werden später ergänzt.
+- [Cornelius und seine Motive](characters/cornelius.md)
+- [Tabethas Wiedererkennung als Erinnerungs-Minispiel](gameplay/tabetha-erinnerungsminispiel.md)
+- [Junger Techniker als Freund/Romanzenoption](characters/techniker-organisation.md)
+- [Organisationen, Manipulation und konkurrierende Shell-Entwicklungen](world/organisationen-und-technologiewettlauf.md)
+- [Vorläufige Zeitlinie und Beziehungsoptionen](story/zeitlinie-und-beziehungen.md)
+
+**Hinweis:** Elena soll beim Erwachen voraussichtlich volljährig sein (etwa 18); ältere Formulierungen wie „Teenager“ sind damit nicht zwingend widersprüchlich, das genaue Alter und die Koma-Dauer bleiben offen. Storyzweige und Technikvarianten sind Möglichkeiten, nicht bereits festgelegte Ereignisse.

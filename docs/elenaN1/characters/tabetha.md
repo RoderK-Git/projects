@@ -76,3 +76,12 @@ Das Weglaufen ist keine eindeutig gesunde oder reife Lösung, sondern ein verzwe
 ## Erzählerische Einordnung
 
 Tabethas Geschichte ist ein **späterer Handlungsstrang**, nicht Teil des zunächst geplanten Demo-Kapitels. Dieses konzentriert sich auf Elenas Erwachen in der Shell und das Erreichen einer Distanz zum Ort des Erwachens über mehrere spielerische Möglichkeiten.
+
+## Ergänzung: Wiederbegegnung und Beziehungsauswahl (Oktober 2026)
+Vor dem Unfall war die Beziehung zu Elena eine enge Freundschaft, möglicherweise mit beiderseits versteckter jugendlicher Verliebtheit. Elenas Bereitschaft, sich für Tabetha vor ein Auto zu werfen, zeigt ihre tiefe Zuneigung, legt aber keine spätere Romanze fest.
+
+Die **grüne und orangefarbene Haarsträhne** (ihre beiden Lieblingsfarben) kamen **erst nach dem Unfall** hinzu; sie sind ein sichtbares Erinnerungszeichen. Die Zuordnung der Farben ist noch offen. Eine von Elena geschenkte **Kette**, die Tabetha verborgen unter dem Shirt trägt, ist ein privates Erinnerungsstück.
+
+Wenn Elena im fremden Körper wieder auftaucht und sich als Elena ausgibt, empfindet Tabetha das zunächst als grausame Verhöhnung. Sie reagiert aggressiv und fordert sie auf zu verschwinden. Ein Erinnerungs-Minispiel mit Gegenständen und akustischen Fragmenten kann sie überzeugen; besonders die verborgene Kette. Nach der tatsächlichen Erkenntnis folgt keine dauerhafte Ablehnung, sondern Überforderung und heftige Erleichterung. Details: [Minispiel](../gameplay/tabetha-erinnerungsminispiel.md).
+
+Tabetha ist als **aufrichtig unterstützende, besonders vertrauenswürdige Romanzenoption** gedacht. Ihre Liebe hängt nicht an Elenas organischer Beschaffenheit. Die Spielerentscheidung kann dennoch zu Freundschaft oder anderen Beziehungen führen; Tabethas Loyalität soll nicht automatisch verschwinden.
