@@ -20,3 +20,16 @@ Die ersten Handlungen führen vertraute Menschen ein, vermitteln Steuerung und b
 - Was geschieht bei Warten oder freiwilliger Kooperation?
 - Wer feuert den Schuss, auf wen und mit welchen Konsequenzen?
 - Wie werden Fluchtplan und Hinweise des Vaters zugänglich gemacht?
+
+## Präzisierung: variabler Schuss und Türöffnung (28.10.2026)
+Die Synchronisationsszenarien sind Amandas automatisierte Technologie; Isaac startet den Transfer, muss aber vor der Erfolgskontrolle den Raum verlassen. Elena erwacht allein und hört einen Schuss von jenseits der Tür. Sie kann selbst nachsehen, indem sie die Tür öffnet; sie kann auch anders handeln. **Der Schuss ist ein gemeinsamer Wahrnehmungsanker, seine Ursache ist variabel.**
+
+Mögliche *What-if*-Zustände hinter der Tür:
+- Isaac steht mit einer Pistole vor der angeschossenen Amanda, starrt sie an oder versucht bereits, sie zu verarzten.
+- Security hat Isaac überwältigt und hält ihm eine Waffe an die Schläfe, um Elena zur Kooperation zu zwingen; der Schuss könnte ein Warnschuss gewesen sein.
+- Cornelius kann bereits anwesend sein oder in die Situation eingreifen; sein Handeln folgt seinem rationalen Ziel, die Shell für Noémi zurückzugewinnen.
+
+Diese Möglichkeiten sind **keine festen alternativen Cutscenes**: Zeitpunkt, beteiligte Personen, Ursache und Folgen können sich aus Weltzuständen und verstrichener Zeit ergeben. Was Elena beim Öffnen vorfindet, kann auch davon abhängen, wie lange sie wartet. Die frühere Formulierung, Security habe Isaac zwingend festgenommen, beschreibt nur **eine Variante**, keinen fixen Kanon. Keine vorgeschriebene Flucht und keine notwendige sofortige Erklärung des Schusses.
+
+## Prinzip der What-if-Erzählung
+**Charaktere sind Konstanten; Ereignisse sind Variablen; Beziehungen sind Ergebnisse.** Die Figuren behalten ihre Persönlichkeiten, Kenntnisse und grundlegenden Motive in jedem Durchlauf. Veränderte Umstände und Zeitpunkte führen zu anderen, dennoch charaktertreuen Handlungen. Entstehende Beziehungen und Konsequenzen beeinflussen wiederum künftige Ereignisse. Randomisierung bedeutet nicht zufällige Persönlichkeitswechsel.
