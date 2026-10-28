@@ -37,3 +37,8 @@ Elena und Noémi sind beide von existenziellen Entscheidungen ihrer Väter bzw. 
 
 ## Offene, nicht festgelegte Idee
 Als besonders düstere Bestrafung könnte Amanda Isaac in ein groteskes Maschinenwesen verwandeln, das sich nicht mehr verständlich mitteilen kann. Motivation, technische Machbarkeit, Zeitpunkt und Konsequenzen sind ungeklärt; ausdrücklich **kein Kanon**.
+
+## Technischer Wissensvorsprung
+Amanda entwickelte maßgeblich die Interaktion zwischen Shell und menschlichem Bewusstsein, einschließlich der Mechanismen, die aus Erinnerungen individuelle Synchronisationsszenarien zur motorischen Kalibrierung erzeugen. Diese Logik arbeitet hochautomatisiert: Isaac muss den Transfer nur initialisieren, nicht selbst die Synchronisation entwerfen. Dieses Spezialwissen besitzt Isaac nicht, obwohl er die Shell als Chefingenieur technisch hervorragend kennt.
+
+Damit ist Amanda auch als zunehmend antagonistische Figur eine potenziell unersetzliche Expertin. Ihre wissenschaftliche Kompetenz bleibt unabhängig von ihren Motiven wertvoll. Es ist nicht festgelegt, ob, wann und unter welchen Bedingungen sie Elena helfen würde. Die Synchronisation funktioniert bei Elena grundsätzlich gut; keine künstliche Fehlfunktion nur zur Erzeugung einer Abhängigkeit.
