@@ -32,3 +32,6 @@
 
 ## Designrisiken
 Kohärenz trotz Verzweigung und Randomisierung, glaubwürdige Reaktionen autonomer Figuren, modulare Ereignisarchitektur und konsistente subjektive Darstellung. Die konkreten Trigger, Zustände und technischen Implementierungen sind noch offen.
+
+## Charakterkonstanz bei variablen Ausgangslagen
+Leitformel: **Charaktere sind Konstanten. Ereignisse sind Variablen. Beziehungen sind Ergebnisse.** Die Welt erzeugt *What-if*-Konstellationen durch unterschiedliche Zeitpunkte, Begegnungen und Handlungen; Isaac, Amanda und Cornelius behalten dabei ihre etablierten Motive. Ein Schuss vor Elenas Erwachensraum kann beispielsweise von Isaac auf Amanda oder als Warnschuss von Security abgegeben worden sein. Hinter der Tür kann Elena sehr unterschiedliche Zustände vorfinden, eventuell abhängig davon, wann sie öffnet. Die Geschichte beginnt also bereits vor der ersten Spielerentscheidung. Beziehungen entwickeln sich aus Ereignissen und Entscheidungen und werden anschließend selbst zu Einflussgrößen.
