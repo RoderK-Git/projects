@@ -64,3 +64,6 @@ Als mögliche kommunikative Zuspitzung wurde diskutiert: *“The world's most ad
 
 ### Gameplay – Kampfsystem
 - [Taktisches Martial-Arts-Kampfsystem (Prototyp-Konzept)](gameplay/kampfsystem.md)
+
+### Wahrnehmung und emergente Erzählung
+- [Subjektive Third-Person-Wahrnehmung, variable Eröffnung und Community-Dynamik](design/wahrnehmung-und-emergente-erzaehlung.md)
