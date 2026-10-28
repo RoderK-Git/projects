@@ -9,6 +9,6 @@ Elena weiß von seiner streng geheimen Arbeit und dem Transfer nichts. Er hinter
 Seine Tat rettet womöglich Elena, nimmt aber Noémi ihre einzige bekannte Rettungschance. Noémis Mutter könnte später grausame Vergeltung an ihm üben (noch offene Idee).
 
 ## Zeitdruck und Transfer
-Isaac ist ein hochkompetenter Chefingenieur, aber Amandas automatisierte Bewusstseinssynchronisation ist nicht sein Fachgebiet. Er kann sie initialisieren, ohne ihre gesamte Logik zu beherrschen. Als plausibler Auslöser der überstürzten Tat steht eine zunehmende neurologische Verschlechterung Elenas zur Diskussion: phasenweise kritische Vitalwerte bzw. Episoden mit wachsender Häufigkeit und die Gefahr, dass ein späterer Bewusstseinstransfer nicht mehr möglich ist. Die medizinische Ursache ist noch offen; der Zeitdruck soll glaubwürdig und nicht bloß willkürlich sein.
+Isaac ist ein hochkompetenter Chefingenieur, aber Amandas automatisierte Bewusstseinssynchronisation ist nicht sein Fachgebiet. Er kann sie initialisieren, ohne ihre gesamte Logik zu beherrschen. Elenas Zustand verschlechtert sich zunehmend. Isaac sieht dadurch seine letzte Chance schwinden, seine Tochter zu retten, und wird zum sofortigen Handeln gedrängt. Die medizinische Ursache muss nicht näher bestimmt oder erklärt werden.
 
 Isaac muss den Raum nach dem Start verlassen, **bevor er weiß, ob der Transfer erfolgreich war**. Was vor der Tür geschieht, kann je nach Durchlauf variieren. Seine grundlegende Motivation bleibt immer die Rettung Elenas.
