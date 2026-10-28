@@ -19,7 +19,7 @@ Eine besonders leicht zugängliche Organisation begegnet Elena ausgesprochen fre
 
 Der Leiter gibt sich als Freund oder Bekannter von Elenas Vater aus; möglicherweise besteht diese Beziehung tatsächlich. Er könnte Elenas Mutter Lena in die Organisation holen, um sie zu schützen und zugleich mittelbar Einfluss auf Elena zu gewinnen. Lena muss dabei nicht bewusst mitwirken und soll eigene Handlungsmöglichkeiten behalten.
 
-Die Organisation kann aus aufrichtigen Mitgliedern bestehen, die ihre Ziele für ehrenhaft halten. Der junge Techniker ist ein möglicher Fall: [Figurenakte](../characters/techniker-organisation.md).
+Die Organisation kann aus aufrichtigen Mitgliedern bestehen, die ihre Ziele für ehrenhaft halten. Der junge Techniker ist ein möglicher Fall: [Figurenakte](../characters/kenzuke.md).
 
 ## Beziehungen zwischen den Mächtigen
 Organisationsleiter kennen einander möglicherweise aus gemeinsamen früheren Projekten oder Karrieren. Rivalitäten können auf gescheiterten Kooperationen, verletztem Stolz, ideologischen Differenzen und persönlichen Konflikten beruhen. So kann die Jagd auf Elena auch aus älterem „persönlichem Beef“ entstehen. Cornelius erscheint zunächst wie ein klassischer Antagonist, könnte aber wesentlich vernünftiger und ehrlicher sein als freundlichere Rivalen.

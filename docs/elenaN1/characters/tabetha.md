@@ -1,5 +1,20 @@
 # Tabetha
 
+<figure style="display:flex; gap:1rem; align-items:flex-start;flex-wrap:wrap">
+   <figure style="margin:0; ">
+    <img src="../../../assets/images/elenaN1/characters/tabetha/tabetha_y.jpg" alt="Tabetha, 12 Jahre" style="height:300px; width:auto;" >
+    <figcaption style="font-size:0.9em; opacity:0.7;">
+      Tabetha, 12 Jahre
+    </figcaption>
+  </figure>
+   <figure style="margin:0; ">
+    <img src="../../../assets/images/elenaN1/characters/tabetha/portrait.jpg" alt="Tabetha" style="height:300px; width:auto;" >
+    <figcaption style="font-size:0.9em; opacity:0.7;">
+      Tabetha
+    </figcaption>
+  </figure>
+</figure>
+
 > Figurenkonzept / Arbeitsstand. Die spätere Ausgestaltung ist offen; die hier beschriebenen inneren Konflikte sind narrative Leitlinien, keine bereits festgelegten Szenen.
 
 ## Beziehung zu Elena
@@ -85,3 +100,40 @@ Die **grüne und orangefarbene Haarsträhne** (ihre beiden Lieblingsfarben) kame
 Wenn Elena im fremden Körper wieder auftaucht und sich als Elena ausgibt, empfindet Tabetha das zunächst als grausame Verhöhnung. Sie reagiert aggressiv und fordert sie auf zu verschwinden. Ein Erinnerungs-Minispiel mit Gegenständen und akustischen Fragmenten kann sie überzeugen; besonders die verborgene Kette. Nach der tatsächlichen Erkenntnis folgt keine dauerhafte Ablehnung, sondern Überforderung und heftige Erleichterung. Details: [Minispiel](../gameplay/tabetha-erinnerungsminispiel.md).
 
 Tabetha ist als **aufrichtig unterstützende, besonders vertrauenswürdige Romanzenoption** gedacht. Ihre Liebe hängt nicht an Elenas organischer Beschaffenheit. Die Spielerentscheidung kann dennoch zu Freundschaft oder anderen Beziehungen führen; Tabethas Loyalität soll nicht automatisch verschwinden.
+
+## Prompts
+### Portrait 12 Jahre alt
+```text
+portrait of a 12yo girl with a lively, mischievous expression.
+She has large, deep brown eyes with a curious sparkle, naturally long eyelashes, and softly arched eyebrows.
+Her cheeks are slightly flushed, giving her a youthful, energetic look.
+She has a small, delicate nose and a subtle, confident smile that suggests intelligence and playful defiance.
+Her hair is thick and dark brown, almost black, worn in a high ponytail with loose, slightly uneven bangs framing her face. 
+Small, colorful hair beads and candy-like clips are woven into her hair, adding a whimsical yet believable personal style.
+
+painterly watercolor illustration, semi-realistic proportions, realistic anatomy,
+soft brush strokes, hand-painted look,
+simplified forms, clean silhouettes,
+limited detail, low visual noise,
+clear lighting, strong value contrast,
+muted color palette.
+concept art watercolor on textured paper. 
+```
+
+### Portrait
+```text
+portrait of a 20yo girl with a bitter tensed expression.
+She has large, deep brown eyes , naturally long eyelashes, and softly arched eyebrows.
+She has a small, delicate nose and a subtle, rebelish defiance.
+Her hair is thick and dark brown, almost black, short, slightly uneven bangs framing her face. 
+she has exactly two colored strands of hair covering her forehead, one strand is colored orange, one strand is colored green. 
+Rebelish, slightly punkish clothes.
+
+painterly watercolor illustration, semi-realistic proportions, realistic anatomy,
+soft brush strokes, hand-painted look,
+simplified forms, clean silhouettes,
+limited detail, low visual noise,
+clear lighting, strong value contrast,
+muted color palette.
+concept art watercolor on textured paper. 
+```

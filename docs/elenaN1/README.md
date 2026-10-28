@@ -43,8 +43,8 @@ Als mögliche kommunikative Zuspitzung wurde diskutiert: *“The world's most ad
 ### Figuren
 - [Noémi](characters/noemi.md)
 - [Cornelius](characters/cornelius.md)
-- [Noémis Mutter](characters/noemis-mutter.md)
-- [Elenas Vater / Chefingenieur](characters/elenas-vater.md)
+- [Noémis Mutter](characters/amanda.md)
+- [Elenas Vater / Chefingenieur](characters/isaac.md)
 - [Tabetha](characters/tabetha.md)
 
 ### Technologie
@@ -56,7 +56,7 @@ Als mögliche kommunikative Zuspitzung wurde diskutiert: *“The world's most ad
 - [Noémis Erkrankung, Erscheinung, Isolation und mögliche Zukunft](characters/noemi.md) – Bildreferenzen und Perchance-Prompts werden später ergänzt.
 - [Cornelius und seine Motive](characters/cornelius.md)
 - [Tabethas Wiedererkennung als Erinnerungs-Minispiel](gameplay/tabetha-erinnerungsminispiel.md)
-- [Junger Techniker als Freund/Romanzenoption](characters/techniker-organisation.md)
+- [Junger Techniker als Freund/Romanzenoption](characters/kenzuke.md)
 - [Organisationen, Manipulation und konkurrierende Shell-Entwicklungen](world/organisationen-und-technologiewettlauf.md)
 - [Vorläufige Zeitlinie und Beziehungsoptionen](story/zeitlinie-und-beziehungen.md)
 

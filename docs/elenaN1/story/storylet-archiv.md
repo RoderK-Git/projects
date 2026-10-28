@@ -103,6 +103,6 @@
 - [Begegnungen und Konflikte](begegnungen-und-konflikte.md)
 - [Zeitlinie und Beziehungen](zeitlinie-und-beziehungen.md)
 - [Bewusstseinsidentität und Entscheidungen](bewusstseinsidentitaet-und-entscheidungen.md)
-- [Techniker-Figurenakte](../characters/techniker-organisation.md)
+- [Techniker-Figurenakte](../characters/kenzuke.md)
 
 **Hinweis zur Herkunft:** Zusammengeführt aus den im Elena-Projekt verfügbaren früheren Gesprächsinhalten und dem aktuellen Repository. Die Zusammenstellung ist keine wortgetreue Volltexttranskription sämtlicher Chats. Bereits vorhandene Inhalte werden bewusst teilweise erneut als Storylets erfasst.

@@ -22,7 +22,7 @@ Mehrere Interessengruppen konkurrieren um Elena. Besonders die leicht zugänglic
 
 Die Organisationsleiter kennen sich möglicherweise aus gemeinsamen früheren Projekten; alte Rivalitäten, persönliche Kränkungen und Machtansprüche wirken neben politischen und wirtschaftlichen Interessen. Cornelius kann sich später als ehrlicher und verantwortungsvoller erweisen als zunächst freundliche Konkurrenten.
 
-Ein junger technikbegeisterter Mitarbeiter (ca. 20–25) analysiert und verbessert Elenas Shell, zunächst im ehrlichen Glauben an die Ziele seiner Organisation. Zwischen ihm und Elena können Freundschaft und gegebenenfalls eine Romanze entstehen; sein Loyalitätskonflikt zwischen Arbeitgeber und Elena kann verschiedene Ausgänge nehmen. Siehe [Techniker](../characters/techniker-organisation.md).
+Ein junger technikbegeisterter Mitarbeiter (ca. 20–25) analysiert und verbessert Elenas Shell, zunächst im ehrlichen Glauben an die Ziele seiner Organisation. Zwischen ihm und Elena können Freundschaft und gegebenenfalls eine Romanze entstehen; sein Loyalitätskonflikt zwischen Arbeitgeber und Elena kann verschiedene Ausgänge nehmen. Siehe [Techniker](../characters/kenzuke.md).
 
 ## Beziehungen und Entscheidungsfreiheit
 Mehrere mögliche Romanzen nach dem Vorbild eines verzweigten Rollenspiels (z. B. Mass Effect). Die Wiederbegegnung mit Tabetha wird dramaturgisch begünstigt, eine Liebesbeziehung jedoch nicht erzwungen. Ihre Loyalität und die gemeinsame Vergangenheit bleiben auch ohne Romanze wichtig. Beziehungen sollen auf explizite und implizite Entscheidungen reagieren, nicht allein auf einen simplen Zustimmungszähler.

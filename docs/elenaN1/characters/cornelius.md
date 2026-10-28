@@ -1,5 +1,14 @@
 # Cornelius
 
+<figure style="display:flex; gap:1rem; align-items:flex-start;flex-wrap:wrap">
+   <figure style="margin:0; ">
+    <img src="../../../assets/images/elenaN1/characters/cornelius/portrait.jpg" alt="Cornelius" style="height:300px; width:auto;" >
+    <figcaption style="font-size:0.9em; opacity:0.7;">
+      Cornelius
+    </figcaption>
+  </figure>
+</figure>
+
 **Status:** Bevorzugter Name; Details weiterhin teilweise offen.
 
 Mächtigster Waffenindustrieller der Welt und Vater der schwerkranken **Noémi**. Er gab den einzigartigen, vom Pip-Stone angetriebenen Shell-Prototyp **zur Rettung seiner Tochter** in Auftrag, nicht primär als Waffe. Elenas Vater entwendete bzw. zweckentfremdete die Shell, um Elena zu retten.
@@ -53,3 +62,41 @@ Seine Frau ist eine hochrangige Wissenschaftlerin; ihre mögliche radikalere Rea
 ## Rivalen
 
 Die Leiter der konkurrierenden Organisationen könnten einander persönlich kennen, teils mit gemeinsamer beruflicher Vergangenheit, zerbrochenen Kooperationen und Rivalitäten. Nicht alle Konflikte sind rein strategisch: alte Kränkungen und persönliche Machtkämpfe können die Jagd auf die Shell beeinflussen. Konkrete Beziehungen sind noch offen.
+
+## Prompts
+
+### Portrait
+```text
+**Character:** Cornelius
+
+A distinguished, authoritative man in his early-to-mid 50s, with a rugged, angular, masculine face and a commanding yet restrained presence.
+
+**Facial structure:** Elongated rectangular face, broad forehead with pronounced horizontal wrinkles, strong angular jawline, prominent cheekbones, slightly hollow cheeks, broad square chin.
+
+**Eyes:** Deep-set, narrow gray-blue eyes, framed by thick, dark, nearly straight eyebrows. Pronounced vertical frown lines between the eyebrows. His gaze is intense, analytical, and focused.
+
+**Nose:** Strong, straight, prominent nose with a broad bridge.
+
+**Mouth:** Relatively narrow mouth, thin-to-medium lips, slightly downturned corners, usually held in a firm, neutral expression.
+
+**Hair:** Short, thick, dark brown hair, almost black, subtly graying at the temples. Classic professional haircut with shorter sides and longer, naturally textured hair combed backward and slightly sideways. Slightly receding temples.
+
+**Skin:** Light-to-medium complexion with warm, slightly tanned undertones. Natural skin texture, visible age lines around the forehead and eyes. Clean-shaven with subtle natural beard shadow.
+
+**Physique:** Tall, approximately 185 cm, broad shoulders, solid athletic build without exaggerated musculature.
+
+**Clothing:** Tailored charcoal-gray business suit, crisp white dress shirt, dark navy tie. Conservative, elegant, understated professional appearance.
+
+**Overall impression:** Mature, intelligent, determined, disciplined, naturally authoritative. His facial features communicate strength and experience rather than conventional youthful beauty.
+
+**Important:** Maintain consistent facial proportions, eye shape, nose structure, jawline, hairline, and distinctive forehead wrinkles across all images, regardless of expression, clothing, pose, or artistic style.
+
+
+painterly watercolor illustration, semi-realistic proportions, realistic anatomy,
+soft brush strokes, hand-painted look,
+simplified forms, clean silhouettes,
+limited detail, low visual noise,
+clear lighting, strong value contrast,
+muted color palette.
+concept art watercolor on textured paper. 
+```

@@ -1,5 +1,14 @@
 # Amanda – Noémis Mutter
 
+<figure style="display:flex; gap:1rem; align-items:flex-start;flex-wrap:wrap">
+   <figure style="margin:0; ">
+    <img src="../../../assets/images/elenaN1/characters/amanda/portrait.jpg" alt="Amanda" style="height:300px; width:auto;" >
+    <figcaption style="font-size:0.9em; opacity:0.7;">
+      Amanda
+    </figcaption>
+  </figure>
+</figure>
+
 **Status:** Charakterkonzept; zentrale Eigenschaften festgelegt, konkrete Handlungsverläufe offen.
 
 ## Rolle und Inspiration
@@ -42,3 +51,25 @@ Als besonders düstere Bestrafung könnte Amanda Isaac in ein groteskes Maschine
 Amanda entwickelte maßgeblich die Interaktion zwischen Shell und menschlichem Bewusstsein, einschließlich der Mechanismen, die aus Erinnerungen individuelle Synchronisationsszenarien zur motorischen Kalibrierung erzeugen. Diese Logik arbeitet hochautomatisiert: Isaac muss den Transfer nur initialisieren, nicht selbst die Synchronisation entwerfen. Dieses Spezialwissen besitzt Isaac nicht, obwohl er die Shell als Chefingenieur technisch hervorragend kennt.
 
 Damit ist Amanda auch als zunehmend antagonistische Figur eine potenziell unersetzliche Expertin. Ihre wissenschaftliche Kompetenz bleibt unabhängig von ihren Motiven wertvoll. Es ist nicht festgelegt, ob, wann und unter welchen Bedingungen sie Elena helfen würde. Die Synchronisation funktioniert bei Elena grundsätzlich gut; keine künstliche Fehlfunktion nur zur Erzeugung einer Abhängigkeit.
+
+## Prompts
+
+### Portrait
+```text
+portrait of a 40yo Caucasian woman with a cold, closed presence.
+She has intelligent amber eyes, and a naturally elegant face with soft cheekbones 
+and a slightly rounded jawline. 
+Her features are intelligent and kind rather than sharp. She wears glasses. 
+Her skin is fair with a natural texture and subtle lines that add realism and character. 
+She wears short, layered light red hair with soft golden highlights, 
+styled neatly with a side part, framing her face in a simple, practical yet feminine way. 
+Minimal makeup, natural lips, soft studio lighting, neutral background
+
+painterly watercolor illustration, semi-realistic proportions, realistic anatomy,
+soft brush strokes, hand-painted look,
+simplified forms, clean silhouettes,
+limited detail, low visual noise,
+clear lighting, strong value contrast,
+muted color palette.
+concept art watercolor on textured paper. 
+```

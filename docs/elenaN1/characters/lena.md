@@ -1,5 +1,20 @@
 # Lena – Charakterbogen
 
+<figure style="display:flex; gap:1rem; align-items:flex-start;flex-wrap:wrap">
+   <figure style="margin:0; ">
+    <img src="../../../assets/images/elenaN1/characters/lena/lena_portrait_01.jpg" alt="Lena (junge Mutter)" style="height:300px; width:auto;" >
+    <figcaption style="font-size:0.9em; opacity:0.7;">
+      Lena (junge Mutter)
+    </figcaption>
+  </figure>
+  <figure style="margin:0; ">
+    <img src="../../../assets/images/elenaN1/characters/lena/lena_portrait_old_02.jpg" alt="Lena (Ära des Spiels)" style="height:300px; width:auto;" >
+    <figcaption style="font-size:0.9em; opacity:0.7;">
+      Lena (Ära des Spiels)
+    </figcaption>
+  </figure>
+</figure>
+
 > **Status:** In Entwicklung. Festgelegte Fakten und offene Entwicklungspunkte sind getrennt.
 
 ## Rolle und Grunddaten
@@ -56,13 +71,6 @@ Ca. 24 Jahre; freundlicher, intelligenter Ausdruck, natürliches Aussehen, leben
 ### Spätere Lena
 
 Visuell etwa 50 Jahre; schlanker, müder und ungepflegter. Augenringe, Falten, erschöpfter Blick, unordentliches Haar mit grauen Strähnen, kein Make-up, abgetragenes T-Shirt. Das braune Kopftuch bleibt. Ihr Kummer soll vor allem über Blick, Haltung und den Kontrast zur früheren Lena sichtbar werden.
-
-### Bildreferenzen
-
-Die ausgewählten Referenzbilder liegen bislang außerhalb dieses Repository-Dokuments und können später ergänzt werden:
-- Junges Porträt: `lena_y_portrait.jpg`
-- Junge Lena, zum Laufen ermutigend: `lena_y_animating_elena.jpg`
-- Späteres Porträt: `lena_o_portrait.jpg`
 
 ## Beziehungen
 
