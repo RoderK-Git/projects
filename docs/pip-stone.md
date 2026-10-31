@@ -81,6 +81,12 @@ Dieser Zusammenhang wird innerhalb des Spiels niemals ausdrücklich enthüllt.
 
 Stattdessen deutet das charakteristische Farbmuster der Außenwelt auf die Verbindung zum Stein hin.
 
+## Kosmologische Einordnung
+
+Der Pip-Stone steht innerhalb des übergreifenden Schöpfungskreislaufs von **Mistress of Time and Space**, **Pip** und den **Schicksalswebern**. Die Mistress bringt Pip zur Welt; Pip erschafft die Weber; die Weber weben die Entstehung der Mistress. Wer hier letztlich wessen Schicksal bestimmt, bleibt ungeklärt.
+
+Die Zusammenhänge, einschließlich Determinismus und freiem Willen, sind eigenständig in [Kosmologie – Die drei Entitäten](kosmologie-drei-entitaeten.md) dokumentiert.
+
 ## Übergreifende Bedeutung
 
 Der Pip-Stone verbindet unterschiedliche Geschichten, Welten und Zeitalter, ohne dass diese unmittelbar aufeinander aufbauen müssen.
