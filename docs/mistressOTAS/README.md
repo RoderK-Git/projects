@@ -168,6 +168,41 @@ Ein eindeutiger zeitlicher Ursprung ist dabei nicht erforderlich.
 
 Die Verbindung zu Pitcher Pip wird innerhalb von *Mistress of Time and Space* lediglich durch die Erwähnung seines eigentlichen Namens angedeutet.
 
+### Schicksalsweber und der dreifache Schöpfungskreislauf
+
+Im übergreifenden Kanon stehen drei Entitäten in einem geschlossenen Ursachenkreis:
+
+1. **Die Mistress of Time and Space** ist Pips Mutter.
+2. **Pip** wird zum Gott und erschafft die **Schicksalsweber**.
+3. **Die Schicksalsweber** weben die Entstehung der Mistress.
+
+Damit bedingen sich alle drei gegenseitig. Es gibt innerhalb dieses Kreislaufs keinen eindeutig bestimmbaren ersten Schöpfer und keine lineare Abfolge von Ursache und Wirkung. Der Kreislauf ergänzt die bereits bestehende Beziehung zwischen Pip, seiner Mutter und dem Universum des Pip-Stones; er ersetzt sie nicht.
+
+#### Erscheinung und Wesen der Schicksalsweber
+
+Anstelle der herkömmlichen Darstellung der Moiren oder Nornen als alte Frauen sind die Schicksalsweber als **spinnenartige Abscheulichkeiten** angedacht. Ihre genaue Anatomie, Anzahl und konkrete Inszenierung sind noch nicht festgelegt.
+
+Sie sind mindestens intelligent und bewusstseinsfähig und können kommunizieren. Ob sie sich tatsächlich auf Gespräche mit anderen Wesen einlassen, liegt bei ihnen. Sie sind keine bloß mechanischen, willenlosen Werkzeuge: **Sie weben, was sie wollen.**
+
+Gerade dieser Wille führt zum zentralen philosophischen Problem: Entspringt ihr Wollen wirklich ihnen selbst? Oder hat Pip ihnen – als ihr Schöpfer – diesen Willen gegeben oder geprägt? Umgekehrt könnte auch **Pips eigenes Schicksal** von den Webern gewoben sein. Wer hier wessen Handeln bestimmt, bleibt ausdrücklich ungeklärt.
+
+Die Idee des Webens wurde durch die Beschäftigung mit *Loom* angeregt; als lose motivische Assoziation besteht außerdem eine Verbindung zu Cygna, der Spinnenkönigin aus *Seelenspiegel*. **Eine tatsächliche kanonische Verbindung zu Cygna ist damit nicht festgelegt.**
+
+#### Determinismus, Selbstausbildung und freier Wille
+
+Die Mistress kann Zeit und Raum durchwandern und unterschiedlichen Versionen ihrer selbst unmittelbar begegnen. Das Schloss beherbergt ausschließlich solche zeitlich verschiedenen Versionen der Mistress; unter ihnen befinden sich die vermeintlichen Gegnerinnen und die alte Dame am Eingang.
+
+Die ältere Mistress kennt die Ausbildung, der sie ihr jüngeres Ich unterzieht, bereits aus eigener Erfahrung. Die junge Magierin kämpft also gegen jene, zu der sie später selbst wird, und stellt ihrer eigenen jüngeren Version irgendwann dieselben Herausforderungen. Die Ausbildung ist eine geschlossene Kausalschleife.
+
+Das spricht für **mindestens einen gewissen Determinismus**, legt aber noch nicht fest, ob jede Entscheidung unabänderlich vorgegeben ist. Insbesondere bleiben folgende Fragen offen:
+
+- Kann die ältere Mistress bei einer Begegnung bewusst anders handeln, als sie es in Erinnerung hat?
+- Sind nur bestimmte Ereignisse oder der ganze Verlauf festgelegt?
+- Wissen die Schicksalsweber, was sie weben werden, und können sie sich anders entscheiden?
+- Ist der vermeintlich eigene Wille Pips, der Mistress und der Weber selbst Teil eines gewobenen Schicksals?
+
+Diese Fragen sind **bewusst ungelöste Aspekte der Lore** und sollen nicht durch eine vorschnelle Festlegung auf vollständigen Determinismus oder freien Willen beantwortet werden.
+
 ### Der Pip-Stone
 
 Das Schloss der Mistress befindet sich innerhalb des Pip-Stones.
