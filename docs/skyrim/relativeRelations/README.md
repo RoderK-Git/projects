@@ -29,6 +29,7 @@ RelativeRelations ist eine geplante, generische Skyrim-Mod zur immersiveren sozi
 - [Persönlichkeit, Kultur und Beziehungen](relationships-and-culture.md)
 - [NPC-Alltag, Eigenentwicklung und Beispiele](npc-life-and-examples.md)
 - [Technische Architektur und Integration](architecture.md)
+- [Gefälligkeiten, Dankbarkeit und soziale Erwartungen](favors-and-social-expectations.md)
 - [Umsetzungsphasen, offene Fragen und Prüfaufträge](roadmap-and-open-questions.md)
 
 ## Beispiel: Ysolda
