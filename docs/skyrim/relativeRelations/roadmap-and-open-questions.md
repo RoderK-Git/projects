@@ -38,12 +38,25 @@ Mit SSEEdit/xEdit bzw. Creation Kit zunächst einige aussagekräftige NPCs unter
 - Ruhephasenreflexion und unterschiedliche Perspektiven.
 - Besserer Umgang mit Todesfällen/Trauer (nur soweit kompatibel).
 
+### Phase 3b – Bedarfsgebundene Gefälligkeiten
+
+- Questbezogene Beschaffungsaufträge an passende NPCs delegieren, mit Wartezeit statt Sofortbelohnung.
+- Beziehung, Dankbarkeit und aktuelle Beanspruchung getrennt berücksichtigen.
+- Siehe [Gefälligkeiten und soziale Erwartungen](favors-and-social-expectations.md).
+
 ### Phase 4 – Sozialer und kultureller Tiefgang
 
 - Individuelle Vorbehalte, Politik, Religion, Herkunft.
 - Kulturell unterschiedliche Werbung und Hochzeitstraditionen.
 - Freiwillige, gegenseitige Beziehungsentwicklung ohne generelles Freischalten.
 - Gerüchte, Lügen, Widersprüche und Quellenvertrauen.
+
+### Phase 4b – Soziales Geflecht (optionale spätere Ausbaustufe)
+
+- Erwartungen und Zusagen als eigenständige soziale Anlässe.
+- Wissen über Hilfen und Beziehungen zwischen Dritten, einschließlich Beobachtungen und Gerüchten.
+- Individuelle Bewertungen: Eifersucht, Gleichgültigkeit, Freude oder Missverständnis.
+- Keine automatische Berechtigung auf Aufmerksamkeit oder Gefälligkeiten.
 
 ### Phase 5 – Umgebung und Hausrat
 
@@ -66,6 +79,10 @@ Mit SSEEdit/xEdit bzw. Creation Kit zunächst einige aussagekräftige NPCs unter
 12. **Kompatibilität:** Wie interagiert die Mod mit SDA, bestehenden Follower-, Ehe- und Dialogmods?
 13. **SKSE-Events:** Sind die im Konzept genannten Quest-Stage-Listener aktuell verfügbar und zuverlässig, und wann ist ein Listener nötig?
 14. **Spielerfreiheit:** Welche Aussageformen sollen später verfügbar sein (offen, verschweigen, lügen, scherzen), ohne künstliche Pflichtentscheidungen?
+
+15. **Gefälligkeiten:** Wie lassen sich tatsächliche Questbedarfe, Auftragsdauer und Kapazitäten sinnvoll zuordnen?
+16. **Dankbarkeit:** Wie unterscheiden wir vergangene Hilfe von wiederholter Beanspruchung und dauerhafter Freundschaft?
+17. **Soziales Geflecht:** Wie erfahren NPCs voneinander, ohne dass jede Beziehung dauerhaft simuliert werden muss?
 
 ## Beschlossen vs. denkbar
 
